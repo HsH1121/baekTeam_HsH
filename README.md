@@ -7,6 +7,7 @@
 - **권순우** : https://github.com/soon5483
 - **박지연** : https://github.com/jyeon64
 - **임수아** : https://github.com/lSOOAH
+- **조영진** : https://github.com/dawnlife
 
 ---
 ### 팀 url
