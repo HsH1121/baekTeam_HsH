@@ -7,7 +7,7 @@
 - **권순우** : https://github.com/soon5483
 - **박지연** : https://github.com/jyeon64
 - **임수아** : https://github.com/lSOOAH
-
+- **정우진** : https://github.com/rainstorm0907
 ---
 ### 팀 url
 - **인텔리제이조** : https://github.com/kdt-financial-team2/kdt-team2-project
